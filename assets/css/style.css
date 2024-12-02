@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: white;
+    font-family: Arial, sans-serif;
+}
+h1, p {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
